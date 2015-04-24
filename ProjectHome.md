@@ -1,0 +1,1 @@
+Open configurations files for osm2mp
